@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ef1c5d55-6708-45b2-bed0-53bc44cc51ff": {
+      "ProjectGuid": "ef1c5d55-6708-45b2-bed0-53bc44cc51ff",
+      "DisplayName": "LorryLogAPI",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
